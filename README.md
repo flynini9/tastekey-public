@@ -139,4 +139,4 @@ tastekey/
 
 ## License
 
-AGPL-3.0 — see [LICENSE](LICENSE).
+AGPL-3.0 only — see [LICENSE](LICENSE). Copyright (C) 2026 TasteKey contributors.
